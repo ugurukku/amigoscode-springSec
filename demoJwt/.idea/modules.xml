@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/demo-formauthJWT.iml" filepath="$PROJECT_DIR$/.idea/demo-formauthJWT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../demoJwt.iml" filepath="$PROJECT_DIR$/../demoJwt.iml" />
+    </modules>
+  </component>
+</project>
